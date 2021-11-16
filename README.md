@@ -2,7 +2,7 @@
 
 
 
-Hi I made this project during the 7 Days Free Bootcamp
+Hi, I made this project during the 7 Days Free Bootcamp
 
 
 <br>I got to have hands on experience on:
